@@ -1,6 +1,4 @@
-# Введение в авиационную и ракетно-космическую технику, 7 семестр
-## Ссылка на Research Doc:
-https://docs.google.com/document/d/1q5aOQsepLWNT8Ztcn_kXfUW1H0SY_sI8EJ_TaykdGGs/edit?usp=share_link
+# Проект по предмету "Введение в авиационную и ракетно-космическую технику", 1 курс, 1 семестр
 
 ## Ссылка на Видео команды:
 https://drive.google.com/file/d/19ssP_cGY5efv7K0t2ex-8YOnsdGbc4rX/view?usp=sharing
